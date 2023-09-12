@@ -1,0 +1,5 @@
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\app.publish\hangman1.exe
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\app.publish\hangman1.dll
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\app.publish\hangman1.deps.json
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\app.publish\hangman1.runtimeconfig.json
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\app.publish\hangman1.pdb

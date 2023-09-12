@@ -1,0 +1,14 @@
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\hangman1.exe
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\hangman1.deps.json
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\hangman1.runtimeconfig.json
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\hangman1.dll
+C:\Users\menai\source\repos\hangman1\bin\Release\net7.0\hangman1.pdb
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.AssemblyInfoInputs.cache
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.AssemblyInfo.cs
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.csproj.CoreCompileInputs.cache
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.dll
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\refint\hangman1.dll
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.pdb
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\hangman1.genruntimeconfig.cache
+C:\Users\menai\source\repos\hangman1\obj\Release\net7.0\ref\hangman1.dll

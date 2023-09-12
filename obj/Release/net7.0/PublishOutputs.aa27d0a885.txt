@@ -1,0 +1,5 @@
+C:\Users\menai\Desktop\hangman1.exe
+C:\Users\menai\Desktop\hangman1.dll
+C:\Users\menai\Desktop\hangman1.deps.json
+C:\Users\menai\Desktop\hangman1.runtimeconfig.json
+C:\Users\menai\Desktop\hangman1.pdb
