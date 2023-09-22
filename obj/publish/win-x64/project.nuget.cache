@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds1pGmWjZHuaaUsXhY80Zqo7oXIkyV0La/Z7P20PRX5wUY3uVzFJVe/Eum4c8H84/EPWV+upVdbksHBQe1eutQ==",
+  "dgSpecHash": "cK4Gzy9LpsNy1tnX83Yo3PN0Ke2fGq3RvqS82WRHlj/ButpT4NoX4NNJquFyP60OC51152R3E6YRIyxkOlchLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\menai\\source\\repos\\hangman1\\hangman1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\menai\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.10\\microsoft.netcore.app.runtime.win-x64.7.0.10.nupkg.sha512",
     "C:\\Users\\menai\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.10.nupkg.sha512",
-    "C:\\Users\\menai\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.win-x64.7.0.10.nupkg.sha512",
-    "C:\\Users\\menai\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.10\\microsoft.netcore.app.crossgen2.win-x64.7.0.10.nupkg.sha512"
+    "C:\\Users\\menai\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.win-x64.7.0.10.nupkg.sha512"
   ],
   "logs": []
 }
